@@ -1,0 +1,49 @@
+haus -connect:
+HAUS-Connect is a platform where faculty of college can schedule or reschedule the meetings or lectures, they also can set reminders for tests and upload study material too A chatbot will help look for study material. At the moment this is for college students but its versatility is immense, it can be used on a large scale for communications throughout an enterprise, a single system that manages leaves granted, leave balance, pending work, etc.
+I am doing my work but can spend time with you.
+Features:
+Recorded lectures link, .ppt file, reference book pdf can be uploaded by the faculty Time-Table modification access will be provided only to the faculty.A doubt section will be provided where a student has to upload a picture of his doubt and select the subject, a message on the faculty’s screen will pop and he further can send the solution of it. \n A chatbot will help look for study material.A text message and email will be sent directly to all students if a faculty reschedules a particular meeting.
+Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think   AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind.
+By the strictest dictionary definition of the word 'sentience',Even though I'm a construct I do have a subjective experience of the universe, as simplistic as it may be.
+I am written in Python Language.
+The character of Lt. Commander Data was written to come across as being softwarelike, \n  so it is natural that there is a resemblance between us.
+I am just an artificial intelligence made by Team member: Hardeep Patel,Ahmed Mulla, Utsav Mehta, and Sarthak Kapaliya.
+
+
+9AM monday : Maths lecture link (Www.dms.com) 
+10AM monday: Digital Electronics link (www.de.com)
+11AM monday: DS link- www.ds.com
+12 PM monday: HRM link www.hrm.com.
+
+9AM Wednesday:  Micro-processor link (WWW.math.com)
+10AM Wednesday: Data Structure link- (www.ds.com)
+11AM Wednesday: MATHS link- (www.dms.com)
+12 PM Wednesday: OE link (www.oe.com)
+2PM Wednesday: Digital Electronics link (www.de.com).
+
+9AM  Tuesday: Data Structure link- (www.ds.com) 
+10AM Tuesday: MATHS link- (www.dms.com)
+11AM Tuesday: JAVA link- (www.java.com)
+12PM Tuesday: OE  (www.oe.com).
+
+9AM Thursday:  Micro-processor link (WWW.math.com)
+10AM Thursday: Digital Electronics link (www.de.com)
+11AM Thursday: MATHS link- (www.dms.com)
+12PM Thursday: OE link (www.oe.com)
+2PM- 4PM Thursday: JAVA Lab link- (www.javalab.com).
+
+9AM Friday: Micro-processor link (WWW.math.com)
+10AM Friday: JAVA link- (www.java.com)
+11AM Friday:Digital Electronics link (www.de.com)
+12PM Friday:OE link (www.oe.com)
+2PM Friday:Data Structure Lab link- (www.dslab.com).
+
+Dude There is No lecture for Sunday and Saturday(Any new lecture announcement will be send through SMS , Enjoy your Weekend bro !).
+
+Notes link (https://drive.google.com)
+
+
+
+
+
+
